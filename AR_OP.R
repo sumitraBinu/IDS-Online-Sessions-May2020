@@ -12,7 +12,4 @@ typeof(diff)
 #Multiplication
 prod=vec1*vec2
 print(c("product=",prod))
-#Division
-dividend=vec1/vec2
-print(c("Dividend=",dividend))
 getwd()
